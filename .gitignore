@@ -1,0 +1,18 @@
+node_modules/
+.DS_Store
+*.log
+release/
+release_v2/
+release_integrated/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# 大文件
+DouyinLiveRecorder/_internal/
+*.exe
